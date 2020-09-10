@@ -1,0 +1,11 @@
+- text: Home
+  url: /
+  
+- text: Publications
+  url: /publications
+
+- text: Blog
+  url: /posts
+  
+- text: Contact
+  url: /contact
