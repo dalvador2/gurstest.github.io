@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               BayesWatch
-tagline:             machine learning group
+title:               Glasgow University Robotics club
+tagline:             Competition Robotics club
 url:                 http://gurstest.github.io
 paginate:            5
 paginate_path:       "posts/page:num"
@@ -18,8 +18,7 @@ sass:
 
 # About/contact
 author:
-  name:              Amos Storkey and group members
-  url:               https://homepages.inf.ed.ac.uk/amos
+  name:              Torin Storkey
 
 # Custom vars
 version:             2.0.0
